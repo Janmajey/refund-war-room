@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.env
+*.sqlite
+*.db
+logs/
+results/whatsapp/
+results/eval_runs.json
